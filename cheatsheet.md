@@ -23,3 +23,10 @@
 
 ---
 *File này sẽ được cập nhật thêm trong quá trình học*
+## LỆNH NHÁNH (BRANCH) - CẬP NHẬT
+
+- `git branch` - Xem danh sách nhánh
+- `git checkout -b <tên>` - Tạo nhánh mới và di chuyển vào
+- `git checkout <tên>` - Di chuyển đến nhánh khác
+- `git merge <tên>` - Hợp nhất nhánh
+- `git branch -d <tên>` - Xóa nhánh (sau khi đã merge)
