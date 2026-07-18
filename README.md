@@ -22,3 +22,7 @@ Day la du an de thuc hanh Git va GitHub.
 
 Dong nay duoc them boi nhanh conflict-1.
 
+\## Cap nhat tu nhanh feature/conflict-2
+
+Dong nay duoc them boi nhanh conflict-2.
+
