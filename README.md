@@ -13,3 +13,7 @@ AI (Trí tuệ nhân tạo) là lĩnh vực máy tính có khả năng suy nghĩ
 
 Machine Learning (Học máy) là một nhánh của AI, cho phép máy tính tự học từ dữ liệu mà không cần lập trình cụ thể.
 
+\## Cap nhat tu nhanh feature/conflict-2
+
+Dong nay duoc them boi nhanh conflict-2.
+
