@@ -1,15 +1,24 @@
-"# Hoc Git cung Thomas"
-"Day la du an dau tien cua toi"
-
-\## Git là gì?
-
-\## AI và Machine Learning là gì?
+\# Du an hoc Git cung Thomas
 
 
 
-AI (Trí tuệ nhân tạo) là lĩnh vực máy tính có khả năng suy nghĩ và học hỏi như con người.
+Day la du an de thuc hanh Git va GitHub.
 
 
 
-Machine Learning (Học máy) là một nhánh của AI, cho phép máy tính tự học từ dữ liệu mà không cần lập trình cụ thể.
+\## Phan 1: Git co ban
+
+\- add, commit, push
+
+\- branch va merge
+
+
+
+\## Phan 2: Giai quyet xung dot
+
+\- Noi dung se duoc cap nhat o buoi hoc nay
+
+\## Cap nhat tu nhanh feature/conflict-1
+
+Dong nay duoc them boi nhanh conflict-1.
 
