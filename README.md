@@ -1,8 +1,7 @@
 # Du an hoc Git cung Thomas - Cap nhat tu main
 
 
-Day la du an de thuc hanh Git va GitHub.
-
+Day la du an de thuc hanh Git va GitHub - Cap nhat tu feature/update-line2
 
 
 \## Phan 1: Git co ban
