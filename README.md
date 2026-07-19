@@ -22,3 +22,5 @@ Dong nay duoc them boi nhanh conflict-1.
 
 Dong nay duoc them boi nhanh conflict-2.
 
+"Day la cong viec dang do" 
+"Commit gia so 1" 
