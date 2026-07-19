@@ -1,0 +1,21 @@
+name: Kiểm tra file Markdown
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Kiểm tra file README.md
+        run: |
+          if [ -f "README.md" ]; then
+            echo "✅ File README.md tồn tại!"
+          else
+            echo "❌ Không tìm thấy file README.md!"
+            exit 1
+          fi

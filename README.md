@@ -22,6 +22,7 @@ Dong nay duoc them boi nhanh conflict-1.
 
 Dong nay duoc them boi nhanh conflict-2.
 
+<<<<<<< HEAD
 "Day la cong viec dang do" 
 "Commit gia so 1" 
 "Commit gia so 2" 
